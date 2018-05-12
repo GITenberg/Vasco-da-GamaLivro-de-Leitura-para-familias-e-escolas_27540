@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32755'
     url: http://www.gutenberg.org/2009/agents/32755
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27540#Vasco-da-GamaLivro-de-Leitura-para-familias-e-escolas
 gutenberg_bookshelf:
 - PT Biografia
 - PT Navegações e Explorações
